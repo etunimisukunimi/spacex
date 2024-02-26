@@ -1,0 +1,13 @@
+.advantageBlock {
+  max-width: 300px;
+}
+.advantageSquare {
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+  font-size: 50px;
+}
+
+.advantageSquare:hover {
+  background-color: grey;
+}
